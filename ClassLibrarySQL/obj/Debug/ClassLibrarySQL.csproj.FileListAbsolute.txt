@@ -1,0 +1,12 @@
+F:\My Development\ClassLibrarySQL\ClassLibrarySQL\bin\Debug\ClassLibrarySQL.dll
+F:\My Development\ClassLibrarySQL\ClassLibrarySQL\bin\Debug\ClassLibrarySQL.pdb
+F:\My Development\ClassLibrarySQL\ClassLibrarySQL\obj\Debug\ClassLibrarySQL.csprojAssemblyReference.cache
+F:\My Development\ClassLibrarySQL\ClassLibrarySQL\obj\Debug\ClassLibrarySQL.csproj.CoreCompileInputs.cache
+F:\My Development\ClassLibrarySQL\ClassLibrarySQL\obj\Debug\ClassLibrarySQL.dll
+F:\My Development\ClassLibrarySQL\ClassLibrarySQL\obj\Debug\ClassLibrarySQL.pdb
+C:\Daten\source\ClassLibrarySQL\ClassLibrarySQL\bin\Debug\ClassLibrarySQL.dll
+C:\Daten\source\ClassLibrarySQL\ClassLibrarySQL\bin\Debug\ClassLibrarySQL.pdb
+C:\Daten\source\ClassLibrarySQL\ClassLibrarySQL\obj\Debug\ClassLibrarySQL.csprojAssemblyReference.cache
+C:\Daten\source\ClassLibrarySQL\ClassLibrarySQL\obj\Debug\ClassLibrarySQL.csproj.CoreCompileInputs.cache
+C:\Daten\source\ClassLibrarySQL\ClassLibrarySQL\obj\Debug\ClassLibrarySQL.dll
+C:\Daten\source\ClassLibrarySQL\ClassLibrarySQL\obj\Debug\ClassLibrarySQL.pdb

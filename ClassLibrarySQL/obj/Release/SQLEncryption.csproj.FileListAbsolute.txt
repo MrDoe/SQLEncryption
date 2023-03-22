@@ -1,0 +1,5 @@
+C:\Daten\source\ClassLibrarySQL\ClassLibrarySQL\bin\Release\SQLEncryption.dll
+C:\Daten\source\ClassLibrarySQL\ClassLibrarySQL\bin\Release\SQLEncryption.pdb
+C:\Daten\source\ClassLibrarySQL\ClassLibrarySQL\obj\Release\SQLEncryption.csproj.CoreCompileInputs.cache
+C:\Daten\source\ClassLibrarySQL\ClassLibrarySQL\obj\Release\SQLEncryption.dll
+C:\Daten\source\ClassLibrarySQL\ClassLibrarySQL\obj\Release\SQLEncryption.pdb

@@ -1,0 +1,5 @@
+C:\Daten\source\ClassLibrarySQL\ClassLibrarySQL\bin\Debug\SQLEncryption.dll
+C:\Daten\source\ClassLibrarySQL\ClassLibrarySQL\bin\Debug\SQLEncryption.pdb
+C:\Daten\source\ClassLibrarySQL\ClassLibrarySQL\obj\Debug\SQLEncryption.csproj.CoreCompileInputs.cache
+C:\Daten\source\ClassLibrarySQL\ClassLibrarySQL\obj\Debug\SQLEncryption.dll
+C:\Daten\source\ClassLibrarySQL\ClassLibrarySQL\obj\Debug\SQLEncryption.pdb
