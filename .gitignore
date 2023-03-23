@@ -48,3 +48,12 @@ Thumbs.db
 *.mov
 *.wmv
 
+*.vsidx
+/.vs/ClassLibrarySQL/v17/.suo
+*.v2
+*.dll
+*.pdb
+/JSMinifier/obj/Release
+/obj/Release
+/packages
+/.vs/ClassLibrarySQL/v17/.suo
